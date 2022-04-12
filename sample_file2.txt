@@ -1,0 +1,5 @@
+sample file no.2
+
+(cui) clone => add => commit => push
+
+
