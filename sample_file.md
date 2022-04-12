@@ -9,7 +9,3 @@ This is a sample fole for git tutorial.
 ## 1st caption
 
 1st contents.
-
-## something
-
-i have something to write here...
