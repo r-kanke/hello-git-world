@@ -1,4 +1,6 @@
-# Title
+# Sample Title
+
+![alt_text_of_the_img](img/git_logo.png)
 
 This is a sample fole for git tutorial.
 
